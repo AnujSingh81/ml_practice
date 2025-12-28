@@ -1,1 +1,1 @@
-""ML_learning setup practive""
+Prediction of students' results based on other subjects
